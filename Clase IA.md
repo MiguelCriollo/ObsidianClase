@@ -7,14 +7,18 @@ Test de Turing
 Machine Learning: aprendizaje automatico, chat gpt no razona tal cual sino se basa en probailidades
 Procesamiento de lenguaje natural:
 Linguistica de forma estadistica
-Etica:
-Sesgo en la IA:
+<h5>Etica y Sesgo</h5>
+
 Juego de GO:
-IA y Crimer
-Compas razonamiento IA racista:
-Transparencia en IA es hipocvrita
+<h3>IA Crimen</h3>
+Tambien la IA puede cometer errores que realmente esta implantado en ella que son correctos, como las supuestas noticias que se habia creado IA que reemplaza perfectamente caras, o que una gano conciencia, etc.
+<h3>Razonamiento IA racista:</h3>
+Ha existido casos donde cierta IAa han tenido comportamientos racistas, no por ellas mismas, sino por que la gente que las ha enseñado, han hecho que esta derive de esas personas.
+
+Transparencia en IA es hipócrita
 Escuela:
-Medicina en India con IA por falta de doctores
+<h2>Medicina en India con IA por falta de doctores:</h2>
+En la india existe una falta de doctores, y una de las problemáticas era el hecho de que se perdía mucho tiempo con los pacientes que no se sabían si necesitaban ayuda con problemas oculares, por lo cual se entreno a una IA para que detectara si el paciente lo necesitaba.
 
 
 
