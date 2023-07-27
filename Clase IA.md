@@ -1,12 +1,23 @@
 <h1>24/07</h1>
 <h3>Apuntes</h3>
-Inflacion: Mientras mas existe de algo, mas dificil es.
-Carreras: Varias podrian enlazar IA
-IA:
+<b>Inflacion: </b>Mientras mas existe de algo, mas dificil es.
+<b>Carreras:</b> Varias podrian enlazar IA
+<b>IA:</b>
 Test de Turing
 Machine Learning: aprendizaje automatico, chat gpt no razona tal cual sino se basa en probailidades
 Procesamiento de lenguaje natural:
 Linguistica de forma estadistica
+Etica:
+Sesgo en la IA:
+Juego de GO:
+IA y Crimer
+Compas razonamiento IA racista:
+Transparencia en IA es hipocvrita
+Escuela:
+Medicina en India con IA por falta de doctores
+
+
+
 <h1>Nativos Digitales</h1>
 <h5>Los "Nativos Digitales" son aquellos individuos que han nacido y crecido en la era digital, inmersos en un entorno tecnológico que incluye computadoras, teléfonos móviles, Internet y redes sociales. Su exposición temprana a estas herramientas tecnológicas ha moldeado su forma de pensar y aprender, presentando diferencias significativas en su enfoque hacia la adquisición de conocimiento en comparación con generaciones anteriores.
 

@@ -25,14 +25,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase IA.md",
+                "file": "Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "847e8a8b1fe12e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clase Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a145f12a465cdefc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b35f37130bb41191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Titanic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase IA.md",
+                "file": "Titanic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase IA.md",
+                "file": "Titanic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase IA.md"
+                "file": "Titanic.md"
               }
             }
           }
@@ -160,13 +192,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a923f20245ba98d3",
+  "active": "b35f37130bb41191",
   "lastOpenFiles": [
-    "Drawing 2023-07-24 09.04.36.excalidraw.md",
-    "ChatGPT.md",
+    "Titanic.md",
+    "Clase Python.md",
     "Variables.md",
+    "Clase IA.md",
+    "ChatGPT.md",
+    "Drawing 2023-07-24 09.04.36.excalidraw.md",
     "Untitled.canvas",
-    "README.md",
-    "Clase IA.md"
+    "README.md"
   ]
 }
